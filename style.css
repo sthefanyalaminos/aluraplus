@@ -3,7 +3,9 @@
     --cinza-sec: #C0C0C0;
     --botao-azul: #167BF7;
     --background-cor: #00030C;
+    --links: #EC2F46;
     --fonte-principal: "Inter";
+    --botao-azul-efeito: #155fba;
 }
 
 *{
@@ -142,4 +144,17 @@ main{
     color: var(--cinza-sec);
     font-weight: 400;
     font-size: 14px;
+}
+
+.lista_link a:hover{
+    color: var(--botao-azul);
+}
+
+.lista_link a:active{
+    color: var(--links);
+}
+
+.container_botao:hover{
+    background-color: var(--botao-azul-efeito);
+    border: 2px solid var(--botao-azul-efeito);
 }
