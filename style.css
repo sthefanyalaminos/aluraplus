@@ -65,3 +65,26 @@ main{
 .container_caixa{
     margin: 0 3em;
 }
+
+.sec{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 10em;
+}
+
+.sec_img{
+    width: 80%;
+}
+
+.desc_titulo{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.desc_texto{
+    color: var(--cinza-sec);
+}
+
