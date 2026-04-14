@@ -66,6 +66,7 @@ main{
     margin: 0 3em;
 }
 
+
 .sec{
     align-items: center;
     display: grid;
@@ -77,6 +78,7 @@ main{
     width: 80%;
 }
 
+
 .desc_titulo{
     font-weight: 700;
     font-size: 48px;
@@ -84,7 +86,13 @@ main{
     margin-bottom: 0.1em;
 }
 
-.desc_texto{
+.container_desc{
     color: var(--cinza-sec);
+    padding: 2em;
+}
+
+.ter_botao{
+    display: inline-block;
+    margin-top: 1em;
 }
 
