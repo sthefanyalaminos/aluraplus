@@ -3,6 +3,7 @@
     --cinza-sec: #C0C0C0;
     --botao-azul: #167BF7;
     --background-cor: #00030C;
+    --fonte-principal: "Inter";
 }
 
 *{
@@ -13,6 +14,9 @@
 body{
     background-color: var(--background-cor);
     color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 main{
