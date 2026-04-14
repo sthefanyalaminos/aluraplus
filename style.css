@@ -23,12 +23,14 @@ main{
     background-image: url(assets/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container{
     height: 100vh;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 40% 60%;
 }
 
 .container_titulo{
@@ -61,5 +63,5 @@ main{
 }
 
 .container_caixa{
-    margin: 0 4em;
+    margin: 0 3em;
 }
