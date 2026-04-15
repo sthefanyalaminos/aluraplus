@@ -13,3 +13,21 @@ O desenvolvimento foi realizado seguindo o fluxo de trabalho de um desenvolvedor
 ## Tecnologias Utilizadas
 - HTML5;
 - CSS3 com Flexbox e Grid.
+
+## Funcionalidades
+- Estruturação semântica de páginas HTML;
+- Organização de layout com Flexbox e Grid;
+- Seções estruturadas para apresentação de conteúdo;
+- Botões e chamadas para ação (CTA);
+- Estilização baseada em design do Figma.
+
+## Design
+O layout do projeto foi disponibilizado via Figma pela Alura, e a implementação buscou manter fidelidade ao design original, incluindo:
+
+- Tipografia;
+- Espaçamentos;
+- Cores;
+- Componentes visuais.
+
+## Autoria
+Desenvolvido por Sthefany Alaminos.
