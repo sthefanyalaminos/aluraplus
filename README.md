@@ -5,6 +5,10 @@ Projeto desenvolvido durante o curso HTML e CSS: praticando HTML/CSS da Alura, c
 <a href="https://sthefanyalaminos-aluraplus.vercel.app/">Clique aqui para acessar!</a>
 </div>
 
+<img src="assets/readme/Readme1.png">
+<img src="assets/readme/Readme2.png">
+<img src="assets/readme/Readme3.png">
+
 ---
 O Alura Plus é uma landing page que simula a apresentação de uma plataforma de streaming educacional, destacando planos, benefícios e funcionalidades do serviço.
 
