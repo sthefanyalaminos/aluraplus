@@ -1,4 +1,6 @@
 # 🖥️ Alura+
+[Traduzir para Português](https://github.com/sthefanyalaminos/aluraplus/blob/main/README.md)
+
 Project developed during the HTML and CSS: practicing HTML/CSS course by Alura, focused on building modern interfaces based on a predefined design from Figma.
 
 <div align="right">

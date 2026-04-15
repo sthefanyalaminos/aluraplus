@@ -1,4 +1,6 @@
 # 🖥️ Alura+
+[Translate to English](https://github.com/sthefanyalaminos/aluraplus/blob/main/READEME_EN.md)
+
 Projeto desenvolvido durante o curso HTML e CSS: praticando HTML/CSS da Alura, com foco na construção de interfaces modernas e responsivas a partir de um design pré-definido no Figma.
 
 <div align="right">
